@@ -1,5 +1,5 @@
 
-# Sean's RPG Reference!
+# Sean's Budget App!
 
-Go [HERE!](https://sphillips-1.github.io/Sean-s-RPG-Reference/)
+Go [HERE!](https://sphillips-1.github.io/Budget/)
 
